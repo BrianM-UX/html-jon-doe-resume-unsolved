@@ -7,3 +7,7 @@ package-lock.json
 /tests-examples/
 .idea/
 test-checking-files
+
+# Playwright
+/blob-report/
+/playwright/.auth/
